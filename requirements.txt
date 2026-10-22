@@ -18,3 +18,5 @@ lxml>=5.0.0
 
 #Environment variables
 python-dotenv>=1.0.0
+
+rich>=14.0.0
